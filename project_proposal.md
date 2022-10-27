@@ -1,5 +1,5 @@
 # Project Proposal
-### Python and Math Fundamentals
+## Python and Math Fundamentals
 
 ### Game Selection
 For this project, I have chosen to implement a Blackjack game in Python. 
