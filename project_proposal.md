@@ -13,4 +13,4 @@ Some interesting questions I would like to explore are:
 My MVP will be one hand of Blackjack that returns both scores and the winner of the hand.
 
 ### Most Challenging
-The most challenging aspect of the game will be coding the gameplay. 
+The most challenging aspect of the game for me will be coding the gameplay. 
